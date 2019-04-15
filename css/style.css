@@ -203,6 +203,14 @@ hr {
 	background-repeat: no-repeat;
 }
 
+.go_project--image {
+	border: 1px solid #bbb;
+	width: 30%;
+	background-image: url('../Golang.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
 .about {
 	height: 70vh;
 	padding-top: 6rem;
